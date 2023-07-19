@@ -1,4 +1,4 @@
-# news app
+# News App with React Native
 <p> The news application was developed with <b> React Native </b> . The data in the <b> JSON  </b> file was printed on the screen. </p>
 
 
