@@ -13,7 +13,6 @@ import NewsCard from "./src/components/NewsCard/NewsCard";
 import news_banner_data from "./src/json/news_banner_data.json";
 
 export default function App() {
-  // bu şekilde yazınca daha performanslı çok veri olduğunda
   const renderNews = ({ item }) => <NewsCard news={item} />;
 
   return (
